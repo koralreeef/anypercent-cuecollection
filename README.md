@@ -17,7 +17,7 @@
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
-idk if i want to use gif pic text or something else i need to figure that out
+(idk if i want to use gif pic text or something else i need to figure that out)
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
 ## Forsaken City
  ### City Start
@@ -41,7 +41,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] 6, jump to a certain height with bg cue, updiag/neutral cornerjump
  - [ ] 7, ext hyper on coin, grab all three coins for free
  - [ ] 9, cue for height for downright cb
- - [ ] 10, setup downdiag with holding jump after downright dream jump
+ - [ ] 10, setup downdiag with holding jump after downright dream jump, explain fastfalling n shit
  ### Awake
  (note that this checkpoint is counted from waking up a second time from campfire)
  - [ ] end_2/end_3 ultra chain, cues there
@@ -51,7 +51,17 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] s3/0x-a first key fast cycle/epic grounded ultra strat
  - [ ] 00-a/02-a, demohyper downdiag for fast cycle
  - [ ] 03-a/02-a second fast key
- - [ ] 
+ - [ ] 05-a, three climbjumps ext hyper
+ - [ ] 08-c, left wall climb
+ ### Huge Mess
+ - [ ] 08-a, cutscene ultra setup (hyperbhop two wavedashes)
+ - [ ] 11-y, bubs setup for fast cycle
+ - [ ] 11-z/10-z, updiag spike jump
+ - [ ] 12-c/12-d, double wallbounce to setup fast cycle
+ - [ ] 13-b/13-a, diagonals
+ - [ ] 13-x/12-x, setup cb for button
+ ### Elevator Shaft
+   [ ] 
  - [ ] 
  - [ ] 
 ## Golden Ridge
