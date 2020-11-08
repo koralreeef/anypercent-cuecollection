@@ -38,6 +38,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  ### Chasm
  - [ ] 11, starting position of wallbounce
  - [ ] 12a, updiag cue
+ - [↑ Back to top](#table-of-contents)
 ## Old Site
  ### Site Start
  - [ ] d0-d7 enter, dash refresh on block break
@@ -53,7 +54,8 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  ### Awake
  (note that this checkpoint is counted from waking up a second time from campfire)
  - [ ] end_2/end_3 ultra chain, cues there
- - [ ] end)4/end_5, cb setup
+ - [ ] end_4/end_5, cb setup
+ - [↑ Back to top](#table-of-contents)
 ## Celestial Resort
  ### Resort Start
  - [ ] s3/0x-a first key fast cycle/epic grounded ultra strat
@@ -73,7 +75,8 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] 02-d, jacks setup for tas cycle and cornerjump setup
  ### Presidental Suite
  - [ ] roof00, the whole strat lol
- - [ ] rood05, clean landing and avoid spring hit
+ - [ ] roof05, clean landing and avoid spring hit
+ - [↑ Back to top](#table-of-contents)
 ## Golden Ridge
  ### Ridge Start 
  - [ ] a-01x, cue for cb and cs skip 
@@ -89,6 +92,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
   - [ ] d-01, tree branch cue, sets up cb good
   - [ ] d-04, go neutral after leaving bubble to set up hyper bhop
   - [ ] d-08, ultra at cue height
+  - [↑ Back to top](#table-of-contents)
 ## Temple Cassette
  - [ ] 
  - [ ] 
