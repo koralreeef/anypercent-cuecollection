@@ -1,5 +1,5 @@
 # Celeste Any% - Visual Cue and Setup Collection
-(images here)
+
 ## Table of Contents
 - [Introduction](#introduction)
    - [Format of Guide](#formatting)
