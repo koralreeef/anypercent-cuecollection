@@ -3,7 +3,7 @@
 ## Table of Contents
 Introduction
 -  What is this?
-  - Format of Guide
+   - Format of Guide
 Forsaken City
 -  stuff
 Old Site
