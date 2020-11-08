@@ -18,6 +18,10 @@
    - [Presidental Suite](#presidental-suite)
 - [Golden Ridge](#golden-ridge)  
    - [Ridge Start](#ridge-start)
+   - [Shrine](#shrine)
+   - [Old Trail](#old-trail)
+   - [Cliff Face](#cliff-face)
+
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
@@ -76,6 +80,15 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] a-04, demo under the spikyz
  - [ ] a-05/a-06, double cb strat setup
  - [ ] a-07, going neutral after downdiag buble, wavedash cb
+ ### Shrine
+ - [ ] b-02/b-05, high wallbounces
+ ### Old Trail
+  - [ ] c-06, tap right lightly to set up hyper bhop
+  - [ ] c-08, buffer both dashes out of bubble and also jump
+ ### Cliff Face
+  - [ ] d-01, tree branch cue, sets up cb good
+  - [ ] d-04, go neutral after leaving bubble to set up hyper bhop
+  - [ ] d-08, ultra at cue height
 ## Temple Cassette
  - [ ] 
  - [ ] 
