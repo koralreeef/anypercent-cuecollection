@@ -11,6 +11,9 @@
    - [Start](#site-start)
    - [Intervention](#intervention)
    - [Awake](#awake)
+- [Celestial Resort](#celestial-resort)
+   - [Start](#resort-start)
+   
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
@@ -34,20 +37,31 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] d0-1 exit, ext hyper > buffer updiag for free wallbounce
  - [ ] 3x, enter through right side of shaft, hold up+right and updiag instantly
  ### Intervention
- - [ ] 
- - [ ] 
- - [ ] 
+ - [ ] 4, free updiag after climbing in the corner
+ - [ ] 6, jump to a certain height with bg cue, updiag/neutral cornerjump
+ - [ ] 7, ext hyper on coin, grab all three coins for free
+ - [ ] 9, cue for height for downright cb
+ - [ ] 10, setup downdiag with holding jump after downright dream jump
  ### Awake
  (note that this checkpoint is counted from waking up a second time from campfire)
- - [ ] 
- - [ ] 
- - [ ] 
+ - [ ] end_2/end_3 ultra chain, cues there
+ - [ ] end)4/end_5, cb setup
 ## Celestial Resort
-
+ ### Resort Start
+ - [ ] s3/0x-a first key fast cycle/epic grounded ultra strat
+ - [ ] 00-a/02-a, demohyper downdiag for fast cycle
+ - [ ] 03-a/02-a second fast key
+ - [ ] 
+ - [ ] 
+ - [ ] 
 ## Golden Ridge
-
+ - [ ] 
+ - [ ] 
+ - [ ] 
 ## Temple Cassette
-
+ - [ ] 
+ - [ ] 
+ - [ ] 
 ## Temple B-Side
 
 ## Reflection Cassette
