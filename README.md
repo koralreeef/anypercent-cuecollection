@@ -18,6 +18,7 @@
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
 idk if i want to use gif pic text or something else i need to figure that out
+
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
 ## Forsaken City
  ### City Start
