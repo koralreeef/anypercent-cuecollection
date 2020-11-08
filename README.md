@@ -8,7 +8,9 @@
    - [Crossing](#crossing)
    - [Chasm](#chasm)
 - [Old Site](#old-site)
-   - [Start](#site-statrt)
+   - [Start](#site-start)
+   - [Intervention](#intervention)
+   - [Awake](#awake)
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
@@ -17,6 +19,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
 ## Forsaken City
  ### City Start
  - [ ] 1, neutral dashjump
+ - [ ] 2, full jump wavedash, cb
  - [ ] 5, double super cue
  ### Crossing
  - [ ] 6a-6c, zkad route
@@ -30,9 +33,15 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] d3, upleft mirror skip cue
  - [ ] d0-1 exit, ext hyper > buffer updiag for free wallbounce
  - [ ] 3x, enter through right side of shaft, hold up+right and updiag instantly
- ### Site Start
- -
- 
+ ### Intervention
+ - [ ] 
+ - [ ] 
+ - [ ] 
+ ### Awake
+ (note that this checkpoint is counted from waking up a second time from campfire)
+ - [ ] 
+ - [ ] 
+ - [ ] 
 ## Celestial Resort
 
 ## Golden Ridge
