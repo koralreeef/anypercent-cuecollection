@@ -2,11 +2,11 @@
 (images here)
 ## Table of Contents
 Introduction
--What is this?
-   -Format of Guide
-Forsaken City
--  stuff
-Old Site
--  
-Celestial Resort
--
+- What is this?
+   - Format of Guide
+##Forsaken City
+ stuff
+##Old Site
+ stuff
+##Celestial Resort
+ stuff
