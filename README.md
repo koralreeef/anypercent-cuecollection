@@ -13,7 +13,11 @@
    - [Awake](#awake)
 - [Celestial Resort](#celestial-resort)
    - [Start](#resort-start)
-   
+   - [Huge Mess](#huge-mess)
+   - [Elevator Shaft](#elevator-shaft)
+   - [Presidental Suite](#presidental-suite)
+- [Golden Ridge](#golden-ridge)  
+   - [Ridge Start](#ridge-start)
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
@@ -61,13 +65,17 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
  - [ ] 13-b/13-a, diagonals
  - [ ] 13-x/12-x, setup cb for button
  ### Elevator Shaft
-   [ ] 
- - [ ] 
- - [ ] 
+ - [ ] 06-d, fish setup for wallbounce and clean landing
+ - [ ] 02-d, jacks setup for tas cycle and cornerjump setup
+ ### Presidental Suite
+ - [ ] roof00, the whole strat lol
+ - [ ] rood05, clean landing and avoid spring hit
 ## Golden Ridge
- - [ ] 
- - [ ] 
- - [ ] 
+ ### Ridge Start 
+ - [ ] a-01x, cue for cb and cs skip 
+ - [ ] a-04, demo under the spikyz
+ - [ ] a-05/a-06, double cb strat setup
+ - [ ] a-07, going neutral after downdiag buble, wavedash cb
 ## Temple Cassette
  - [ ] 
  - [ ] 
