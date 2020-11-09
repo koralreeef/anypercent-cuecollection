@@ -29,11 +29,43 @@ cue and setup collections for each of the 7 levels in any%. note that this follo
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
 ![for now](https://cdn.discordapp.com/attachments/293555577991200770/775348127044993034/unknown.png)
 
-## Forsaken City
+## Forsaken City     
  ### City Start
- - [ ] 1, neutral dashjump
- - [ ] 2, full jump wavedash, cb
- - [ ] 5, double super cue
+ \
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="450" height="270"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp" width="450" height="270"/>
+ \
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp" width="450" height="270"/>
+   <details>
+      <summary>city-1</summary>
+      
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
+   \
+   dashjump then hold right, should guarantee cornerboost everytime
+   </details>
+ 
+   <details>
+      <summary>city-2</summary>
+   
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
+   \
+   wavedash and hold jump, the cornerboost should line up
+   </details>
+   
+   <details>
+      <summary>city-5</summary>
+   
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
+   \
+   do a min dashjump, pressing dash+jump at almost the same time around this point where the traffic block passed and you can get a clean landing pretty easily
+   </details>
+
  ----
  ### Crossing
  - [ ] 6a-6c, zkad route
@@ -53,7 +85,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
   ----
  ### Intervention
  - [ ] 4, free updiag after climbing in the corner
- - [ ] 6, jump to a certain height with bg cue, updiag/neutral cornerjump
+ - [ ] 6, jump to a certain height with bg cue, updiag/neutral cornerjump                                       
  - [ ] 7, ext hyper on coin, grab all three coins for free
  - [ ] 9, cue for height for downright cb
  - [ ] 10, setup downdiag with holding jump after downright dream jump, explain fastfalling n shit
