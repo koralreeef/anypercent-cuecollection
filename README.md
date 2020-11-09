@@ -32,10 +32,10 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
 ## Forsaken City     
  ### City Start
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="320" height="180"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp" width="320" height="180"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp" width="384" height="216"/>
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp" width="320" height="180"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp" width="384" height="216"/>
    <details>
       <summary>city-1</summary>
       
