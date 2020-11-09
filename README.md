@@ -25,9 +25,8 @@
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
-(idk if i want to use gif pic text or something else i need to figure that out)
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
-![for now](https://cdn.discordapp.com/attachments/293555577991200770/775348127044993034/unknown.png)
+![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
 
 ## Forsaken City     
  ### City Start
@@ -41,17 +40,13 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
-   \
-   dashjump then hold right, should guarantee cornerboost everytime
+   neutral dashjump, hold right after jump input then buffer 2nd jump, should guarantee cornerboost everytime
    </details>
  
    <details>
       <summary>city-2</summary>
    
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp)
-   \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
    \
    wavedash and hold jump, the cornerboost should line up
    </details>
@@ -61,19 +56,61 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
    
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775348478192255016/unknown.png) 
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394871011311626/start3.PNG) 
    \
    do a min dashjump, pressing dash+jump at almost the same time around this point where the traffic block passed and you can get a clean landing pretty easily
    </details>
 
  ----
  ### Crossing
- - [ ] 6a-6c, zkad route
- - [ ] 8, second pillar updiag cue 
+  \
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing1%20or%20zkad.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing2.webp" width="384" height="216"/>
+  \
+ <details>
+      <summary>6a-6c, aka zkad route</summary>
+   
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing1%20or%20zkad.webp)
+   \
+   this is already covered in bubs guide, but buffer wallbounce on screen 1, demohyper bhop at the peak of your height and dash upright at this coffee shop corner.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394867508674582/cue_32.PNG)
+   \
+   make sure to wait a bit for the previous updiag speed to carry you up more, then updash. 
+   \
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/slowmo.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394870897934366/zkad_cue.PNG) 
+   \
+   the key here for this spring skip is to get an ultra that lands on this tile and jumping instantly. you'll know when you've gotten this with a different landing sound.
+   after holding jump, down, and right through transition, you want to let go of jump after madeline has passed the spring and demo to the other spring. the ultra here requires a certain feel but these cues should push you in the right direction.
+  </details>
+  
+   <details>
+      <summary>city-8</summary>
+      
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing2.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394864438968320/crsoggin_2nd_pil.PNG) 
+   \
+   doing this upright dash right on this cue allows you to land on the far left on the crumble block and lets you get your dash back easily.
+  </details>
+  
   ----
  ### Chasm
- - [ ] 11, starting position of wallbounce
- - [ ] 12a, updiag cue
+ \
+  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chasm.webp" width="384" height="216"/>
+ \
+ <details>
+      <summary>city-12a</summary>
+      
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chasm.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775398291177209886/unknown.png) 
+   \
+   this strat becomes managable if you know what to look for. neutral and hold jump off the circled corner, then upright dash + buffer neutral jump at any point past the line. be sure to start holding left as soon as you see madeline cornerkick
+  </details>
+  
   ----
  - [↑ Back to top](#table-of-contents)
 ## Old Site
