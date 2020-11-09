@@ -211,7 +211,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention4.webp)
    \
-   after you perform the second wavedash, hold right immediately. when you are under the ice block, hold left immediately.
+   after you perform the wavedash, hold right immediately. when you are under the ice block, hold left immediately.
    </details>
   
   ----
