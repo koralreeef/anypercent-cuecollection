@@ -26,6 +26,9 @@
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
 ## Formatting
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
+attached below is some drawings of format of the guide, and you should read it as such.
+\
+![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
 ![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
 
 ## Forsaken City     
@@ -171,7 +174,7 @@ in the table of contents, some chapters wont have bulleted checkpoints since the
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432161359560717/start_1.PNG)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432168222621716/intervention_1.PNG)
    \
    after upright dashing from the bottom of the dream block, grab the corner of the 2nd dream block and climb up to the ceiling. at this point, you should be able to upleft dash    cleanly through the dream block and skip the long way around.
    </details>
