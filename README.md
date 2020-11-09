@@ -1,5 +1,6 @@
 # Celeste Any% - Visual Cue and Setup Collection
 ![header](https://cdn.discordapp.com/attachments/293555577991200770/774874797506560040/unknown.png)
+by koralreef
 ## Table of Contents
 - [Introduction](#introduction)
    - [Format of Guide](#formatting)
