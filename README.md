@@ -346,7 +346,7 @@ attached below is some drawings of format of the guide, and you should read it a
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775569268481458207/unknown.png)
    \
-   weirdly specific cutscene trigger for this skip, pause while performing a grounded ultra on this cue and you should have the best speed leaving this cutscene.
+   weirdly specific cutscene trigger for this skip, pause while performing a grounded ultra on this cue and you should have the best speed leaving this cutscene. the setup used in the gif enters the room with a max height bhop, then at the peak two quick wavedashes.
  </details>
  
   <details>
