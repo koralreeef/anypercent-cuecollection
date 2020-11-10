@@ -24,6 +24,8 @@
 
 ## Introduction
 cue and setup collections for each of the 7 levels in any%. note that this follows current optimal route of 5b and 6b. this guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b
+\
+**general note:** these arent necessarily the fastest strats, just cues and setups that aren't 100% consistent and what i use, ill be open to add other cues once ive finished my part in creating a foundation for the guide.
 ## Formatting
 in the table of contents, some chapters wont have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
 attached below is some drawings of format of the guide, and you should read it as such.
