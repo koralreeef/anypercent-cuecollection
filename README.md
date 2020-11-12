@@ -661,7 +661,11 @@ Attached below are some drawings of format of the guide, and you should read it 
   ----
  ### Cliff Face
  \
- 
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face1.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face2.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face3.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face4.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face5.webp" width="384" height="216"/>
  
   <details>
       <summary>ridge-d-01</summary>
