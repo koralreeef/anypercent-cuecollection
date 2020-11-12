@@ -50,7 +50,7 @@
 ## Introduction
 Cue and setup collections for each of the 7 levels in any%. Note that this follows current optimal route of 5b and 6b. This guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b.
 \
-I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](discord.gg/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
+I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](https://discord.com/invite/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
 \
 **general note:** These arent necessarily the fastest strats, just cues and setups that aren't 100% consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk. (please only DM after i've finished up to summit)
 
