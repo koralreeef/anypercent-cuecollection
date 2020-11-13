@@ -4,7 +4,7 @@
    - [Huge Mess](#huge-mess)
    - [Elevator Shaft](#elevator-shaft)
    - [Presidental Suite](#presidental-suite)
-   ### Start
+   ## Start
   \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start2.webp" width="384" height="216"/>
@@ -78,7 +78,7 @@
 </details>
 
  ----
- ### Huge Mess
+ ## Huge Mess
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess2.webp" width="384" height="216"/>
@@ -157,7 +157,7 @@
  </details>
  
  ----
- ### Elevator Shaft
+ ## Elevator Shaft
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shaft1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shaft2.webp" width="384" height="216"/>
@@ -194,7 +194,7 @@
  </details>
  
  ----
- ### Presidental Suite
+ ## Presidental Suite
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro2.webp" width="384" height="216"/>
