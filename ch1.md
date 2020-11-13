@@ -1,10 +1,10 @@
 # Forsaken City     
 ![header](https://cdn.discordapp.com/attachments/293555577991200770/776706041667911700/unknown.png)
-   - [Start](#city-start)
+   - [Start](#start)
    - [Crossing](#crossing)
    - [Chasm](#chasm)
    
- ### City Start
+ ## Start
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp" width="384" height="216"/>
@@ -37,7 +37,7 @@
    </details>
 
  ----
- ### Crossing
+ ## Crossing
   \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing1%20or%20zkad.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing2.webp" width="384" height="216"/>
@@ -72,7 +72,7 @@
   </details>
   
   ----
- ### Chasm
+ ## Chasm
  \
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chasm.webp" width="384" height="216"/>
  
