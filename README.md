@@ -1,9 +1,10 @@
 # Celeste Any% - Visual Cue and Setup Collection
 ![header](https://cdn.discordapp.com/attachments/293555577991200770/774874797506560040/unknown.png)
-## Table of Contents
+## Read me first!
 - [Introduction](#introduction)
-   - [Key Cycles](#key-cycles)
-   - [Format of Guide](#formatting)
+- [Key Cycles](#key-cycles)
+- [Format of Guide](#formatting)
+- [Credits](#credits)
 - [Forsaken City](#forsaken-city)
    - [Start](#city-start)
    - [Crossing](#crossing)
@@ -56,21 +57,29 @@ I assume that the reader already knows what hypers, demohypers, supers, cornerbo
 
 ## Key Cycles
 According to fishmcmuffins:
-\
+
 "For a key to enter the keyhole:
--One second (60f) must have passed since the key started moving towards the door
--The key must be facing the door (animation frame 4)
-The key spins slowly at all times until it's facing the door, when the speed triples. This means that for every three frames saved between entering a room with a key and putting the key in a door, one frame will be lost to the door.
-best key opening time compared to worst key opening time is about .4
-general rule of thumb with a key you save 2 frames for every 3 frames you save unless you make a better cycle"
+
+- One second (60f) must have passed since the key started moving towards the door
 \
+- The key must be facing the door (animation frame 4)
+
+- The key spins slowly at all times until it's facing the door, when the speed triples. This means that for every three frames saved between entering a room with a key and putting the key in a door, one frame will be lost to the door.
+
+- Best key opening time compared to worst key opening time is about .4
+
+- General rule of thumb with a key you save 2 frames for every 3 frames you save unless you make a better cycle"
+
 Even though I will assume that you know general game mechanics and terminology, I think these key cycles can help for people to understand how exactly to achieve the fast key cycles shown in this guide. (2 in resort start, 1 in 2500m)
 ## Formatting
-In the table of contents, some chapters won't have bulleted checkpoints since there might be not as many cues, but others will be split up into checkpoints and highlighted for easier access. 
+This collection will be split up into different markdown files to avoid needing to load 50+ gifs at a time when checking this page. Each chapter will have its own table of contents and follow the format given below. 5A and 6A (Mirror Temple and Reflection) will have their tape segment + A-Side clear cues together, as the tape cues can be applied to the regular A-Side clear.
 Attached below are some drawings of format of the guide, and you should read it as such.
 \
 ![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
 ![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
+
+## Credits
+Thanks to czyys and buhbai for their github guides and being the inspiration to start my own collection of strats. (credit me discord + veru for proofreading, credit fishmcmuffins for key cycle explanation and most of the cues here. thanks for reading.)
 
 ## Forsaken City     
  ### City Start
