@@ -3,7 +3,7 @@
    - [Start](#start)
    - [Intervention](#intervention)
    - [Awake](#awake)
-   ### Start
+   ## Start
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start2.webp" width="384" height="216"/>
@@ -47,7 +47,7 @@
    </details>
    
   ----
- ### Intervention
+ ## Intervention
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention2.webp" width="384" height="216"/>
@@ -104,7 +104,7 @@
    </details>
    
    ----
- ### Awake
+ ## Awake
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake2.webp" width="384" height="216"/>
