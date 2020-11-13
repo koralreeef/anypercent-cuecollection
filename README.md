@@ -11,22 +11,22 @@ Cue and setup collections for each of the 7 levels in any%. Note that this follo
 I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](https://discord.com/invite/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
 \
 \
-**general note:** These arent necessarily the fastest strats, just cues and setups that aren't 100% consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk. (please only DM after i've finished up to summit)
+**general note:** These aren't necessarily the fastest strats, just cues and setups that are mostly consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk. (please only DM after i've finished up to summit)
 
 ## Key Cycles
 According to fishmcmuffins:
 
 "For a key to enter the keyhole:
 
-- One second (60f) must have passed since the key started moving towards the door
+- One second (60f) must have passed since the key started moving towards the door.
 \
-- The key must be facing the door (animation frame 4)
+- The key must be facing the door. (animation frame 4)
 
 - The key spins slowly at all times until it's facing the door, when the speed triples. This means that for every three frames saved between entering a room with a key and putting the key in a door, one frame will be lost to the door.
 
-- Best key opening time compared to worst key opening time is about .4
+- Best key opening time compared to worst key opening time is about 0.4.
 
-- General rule of thumb with a key you save 2 frames for every 3 frames you save unless you make a better cycle"
+- General rule of thumb with a key you save 2 frames for every 3 frames you save unless you make a better cycle."
 
 Even though I will assume that you know general game mechanics and terminology, I think these key cycles can help for people to understand how exactly to achieve the fast key cycles shown in this guide. (2 in resort start, 1 in 2500m)
 ## Formatting
