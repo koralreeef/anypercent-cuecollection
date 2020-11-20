@@ -137,7 +137,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779136731974336512/unknown.png
    For the last room, hyper bhop into Theo or Theo ultra and jump and start the regrab throw between this eye in the background and the pillar.
- </details
+ </details>
  
    <details>
    <summary>temple-d-03</summary>
