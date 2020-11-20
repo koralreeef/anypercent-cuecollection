@@ -70,6 +70,7 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling3.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling4.webp" width="384" height="216"/>
  
    <details>
@@ -101,12 +102,20 @@
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779326833665507338/unknown.png)
    \
    Hold jump for a bit after the bhop, hold downright, and wait until Madeline passes this line to let go of right. This sets up this tricky diag a bit easier.
+    </details>
+ 
+   <details>
+   <summary>reflection-b-06</summary>
+      
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling3.webp)
+   \
+   To enter this room, do a wavedash > cb > wavedash again to have consistent speed. You can hold downright until the first row of spinners.
  </details>
  
    <details>
    <summary>reflection-b-07</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling3.webp)
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling5.webp)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779328098628927499/unknown.png)
    \
@@ -182,10 +191,11 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom4.webp)
    \
-   To enter this room, you need to buffer a downright dash from the badeline hit, buffer a hyper, and downright dash again to slide on the floor. After the downright dash in c-04, you must let go of right and only hold down until you clear the gap. From there, you need to land straight on the bumper and wallkick twice to not die to the fireball.
+   To enter this room, you need to buffer a downright dash from the badeline hit, buffer a hyper, and downright dash again to slide on the floor. After the downright dash in c-04, you must let go of right and only hold down until you clear the gap. 
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779333188413161532/unknown.png)
-   For the fast laser cycle, start the two right dashes when Madeline is under this pattern of the tiling. Featherboost upright and cut near the spinners to not die.
+   \
+   For the fast laser cycle, start the two left dashes when Madeline is under this pattern of the tiling. Featherboost upright and cut near the spinners to not die.
  </details>
  
  ----
@@ -283,9 +293,9 @@
    \
    These cues help for doing the diagonal dashes at the right time. For keyboard players, on the second feather you want to only featherboost and just hold right. This lets you land on the feather for a better position.
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779434821591367691/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779435864585535498/unknown.png)
    \
-   For the first cue, dodge the badeline laser when you pass that corner to have enough room for a good bumper boost into the feather. Do a downright featherboost afterwards.
+   For the first cue, dodge the badeline laser when you pass this corner to have enough room for a good bumper boost into the feather. Do a downright featherboost afterwards.
    \
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieveslow1.webp)
    \
@@ -301,7 +311,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve6.webp)
    \
-   There are two different entries to this strat and I'll cover both. For the displayed above, you need to land on the ledge with a downdash, hyper and start a super in the air. Try to jump and hold it from the super before entering the next screen. You can buffer the cb and wavedash. 
+   There are two different entries to this strat and I'll cover both. For the displayed above, you need to land on the ledge with a downdash, hyper and start a super in the air. Try to jump and hold it from the super before entering the next screen. You can buffer the cb then wavedash. 
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779338361626296320/unknown.png)
    \
