@@ -168,6 +168,6 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo5.webp)
    \
-   Try to hyper as left as possible from previous screen, and downright dash when you see Madeline start to move. You can throw Theo early to climb onto the blue block and still be able to catch him in time.
+   Try to hyper as left as possible from previous screen, and downright dash when you see Madeline start to move. You can throw Theo early to climb onto the blue block and still be able to catch him in time. (thanks jacks again :])
    </details>
    
