@@ -117,7 +117,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo1.webp)
    \
-   To enter the room, hyper into theo and throw him before passing the barrier. A theo ultra here should let you fly into the seeker and let you over the wall. For the second seeker, neutral kick off the wall and upright dash + throw theo at the same time. You might need to bop the seeker but in every case, you won't ever die to it. 
+   To enter the room, hyper into Theo and throw him before passing the barrier. A Theo ultra here should let you fly into the seeker and let you over the wall. For the second seeker, neutral kick off the wall and upright dash + throw Theo at the same time. You might need to bop the seeker but in every case, you won't ever die to it. 
    \
    
  </details>
@@ -129,15 +129,15 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779135433925591040/unknown.png)
    \
-   Hyper into theo from the previous room and do two bhops. When you reach this pillar in the background, go neutral and hold jump until around the left side of the pillar. Throw theo and dash downright to hit the button safely.
+   Hyper into Theo from the previous room and do two bhops. When you reach this pillar in the background, go neutral and hold jump until around the left side of the pillar. Throw Theo and dash downright to hit the button safely.
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779135911576338472/unknown.png)
    \
-   Dash into the corner and hyper into theo again, and throw him when you get to the middle of this pillar. For the updash into the button, use the same pillar as a guide since in runs, Theo's dialogue would be covering it.
+   Dash into the corner and hyper into Theo again, and throw him when you get to the middle of this pillar. For the updash into the button, use the same pillar as a guide since in runs, Theo's dialogue would be covering it.
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779136731974336512/unknown.png
-   For the last room, hyper bhop into theo or theo ultra and jump and start the regrab throw between this eye in the background and the pillar.
- </details>
+   For the last room, hyper bhop into Theo or Theo ultra and jump and start the regrab throw between this eye in the background and the pillar.
+ </details
  
    <details>
    <summary>temple-d-03</summary>
@@ -146,24 +146,28 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779136425672441876/unknown.png)
    \
-   Throw theo when you reach these rocks to guarantee him landing on the dash block. For the wallbounce + theo grab, make sure to throw theo first before doing a short wallbounce.
+   Throw Theo when you reach these rocks to guarantee him landing on the dash block. For the wallbounce + Theo grab, make sure to throw Theo first before doing a short wallbounce.
  </details>
  
    <details>
    <summary>temple-d-04</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mirror1.webp)
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo4.webp)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779137649637982259/unknown.png)
    \
-   Hyper into theo, 
+   Hyper into Theo, hold jump on the bhop and throw Theo when Madeline is at this pillar.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779138913259749416/unknown.png)
+   \
+   Line up Madeline to this dash crystal then buffer right -> upright dash while holding grab. You should be able to skip the spring this way.
  </details>
  
    <details>
-   <summary>temple</summary>
+   <summary>temple-d-05, heart room</summary>
       
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mirror1.webp)
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo5.webp)
    \
-   ![cue]()
-   \
+   Try to hyper as left as possible from previous screen, and downright dash when you see Madeline start to move. You can throw Theo early to climb onto the blue block and still be able to catch him in time.
+   </details>
    
