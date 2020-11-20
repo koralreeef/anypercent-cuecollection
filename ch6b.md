@@ -11,7 +11,6 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart4.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart4.webp" width="384" height="216"/>
  
   <details>
    <summary>reflection-a-02</summary>
@@ -74,7 +73,7 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling4.webp" width="384" height="216"/>
  
    <details>
-   <summary> **important** a note about diagonal dashes **important**</summary>
+   <summary> **important** a note about diagonal dashes **important** </summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/diagonaldashes.webp)
    \
@@ -179,16 +178,19 @@
   </details>
  
    <details>
-   <summary>reflection-c-04 -> c-05</summary>
+   <summary>reflection-c-03 -> c-04</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom4.webp)
    \
-   To enter this room, you need to buffer a downright dash from the badeline hit, buffer a hyper, and downright dash again to slide on the floor. After the downright dash in c-04, you must let go of right and only hold down until you clear the gap. From there, you need to land straight on the 
-
+   To enter this room, you need to buffer a downright dash from the badeline hit, buffer a hyper, and downright dash again to slide on the floor. After the downright dash in c-04, you must let go of right and only hold down until you clear the gap. From there, you need to land straight on the bumper and wallkick twice to not die to the fireball.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779333188413161532/unknown.png)
+   For the fast laser cycle, start the two right dashes when Madeline is under this pattern of the tiling. Featherboost upright and cut near the spinners to not die.
  </details>
  
  ----
  ## Reprieve
+   (fair warning, all of these dropdown tabs are pretty big)
    \
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve1.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve2.webp" width="384" height="216"/>
@@ -199,84 +201,113 @@
   
    </details>
  
-  </details>
- 
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-00, underblock</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve1.webp)
    \
-   ![cue]()
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779333359225929738/unknown.png)
    \
-
+   To set up underblock, do an upright dash at this point, wait until you're at the peak of the dash, then do the double wavedash. This trick is still really hard with how feel-based it is but this setup is a good one.
  </details>
  
   </details>
  
-  </details>
- 
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-01</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve2.webp)
    \
-   ![cue]()
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779334181787402270/unknown.png)
    \
-
+   To do the inital ultra, move up a pixel and jump + downright dash at almost the same time before this green tile in the background.
+   \
+   When you down dash into the bumper, there are 3 launch angles that you need to watch out for. One of them is displayed above, with the solution being 3 climbjumps and a right dash.
+  \
+  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/option1.webp" width="384" height="216"/>
+  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/option2.webp" width="384" height="216"/>
+  \
+  Option 1 on the left is when you get a bumper boost which is fast and good. You can just drift into the wall and right dash.
+  \
+  Option 2 on the right is when you hit the bumper at a diagonal angle, resulting in a slow launch. You need to upright and climb jump to save yourself.
  </details>
  
-  </details>
  
   </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-02</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve3.webp)
    \
-   ![cue]()
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779335071353536512/unknown.png)
    \
-
+   When launching off the second bumper, make sure to downright dash before or on this pillar to not miss the badeline hitbox.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779335217952849950/unknown.png)
+   \
+   To make fish's strat work, you need to be horizontal with the feather above or on this point in the background. The fireball will be too low otherwise.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779335364325802044/unknown.png)
+   \
+   To finish this strat, do a small jump and dash upright when Madeline is under the coin block. The cornerjump should be bufferable.
  </details>
  
-  </details>
- 
+
   </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-03</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve4.webp)
    \
-   ![cue]()
+   To not die to badeline's laser, fastfall and hit the kevin at the bottom. Climb up and jump off when the kevin hits the wall.
    \
-
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779335949590200360/unknown.png)
+   \
+   Fastfall, dash before this cutoff line and hold left for the duration of the dash, and go neutral afterwards. When Madeline is near the bumper, tap right and you should get the bumper boost.
  </details>
  
-  </details>
  
   </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-04, fast cycle</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve5.webp)
    \
-   ![cue]()
+   If you are doing the hyper bhop entry, dash late for the feather distance. If you do the cboost entry, try to dash asap.
    \
-
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779435200089292830/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779435346189353013/unknown.png)
+   \
+   These cues help for doing the diagonal dashes at the right time. For keyboard players, on the second feather you want to only featherboost and just hold right. This lets you land on the feather for a better position.
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779434821591367691/unknown.png)
+   \
+   For the first cue, dodge the badeline laser when you pass that corner to have enough room for a good bumper boost into the feather. Do a downright featherboost afterwards.
+   \
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieveslow1.webp)
+   \
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779434821591367691/unknown.png)
+   \
+   For this bumperboost, you need to allign yourself to these two points before the downleft dash.
  </details>
  
   </details>
  
-  </details>
- 
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-d-05</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve6.webp)
    \
-   ![cue]()
+   There are two different entries to this strat and I'll cover both. For the displayed above, you need to land on the ledge with a downdash, hyper and start a super in the air. Try to jump and hold it from the super before entering the next screen. You can buffer the cb and wavedash. 
    \
-
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779338361626296320/unknown.png)
+   \
+   Start your dash through the bumper around this corner to guarantee the buffered cb off the blue block. Afterwards, do a max height extended hyper off the blue block and demo through the spinners.
+   \
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve6alt.webp)
+   \
+   This is the second setup, opting for a diagonal dash into an instant super (dash + jump at same time).
  </details>
