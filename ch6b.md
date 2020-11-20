@@ -171,7 +171,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779421375185289306/unknown.png)
    \
-   Wait until Madeline is just touching the dash crystal on the left. From here, you want to buffer every input of left dash > up > buffer jump > buffer hyper. You also want to be holding left until the wallkick off the falling block.
+   Wait until Madeline is just touching the dash crystal on the left. From here, you want to buffer every input of left dash > up > buffer jump > buffer hyper. You also want to be holding left until the wallkick off the falling block. After the badeline hit, downright dash and hold down after the dash. Drift right when Madeline is past the tunnel.
  </details>
  
   </details>
