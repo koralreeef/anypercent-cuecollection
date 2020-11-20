@@ -14,7 +14,7 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart4.webp" width="384" height="216"/>
  
   <details>
-   <summary>reflection</summary>
+   <summary>reflection-a02</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart1.webp)
    \
@@ -24,7 +24,7 @@
  </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-a-03</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart2.webp)
    \
@@ -34,7 +34,7 @@
  </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-a-04</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart3.webp)
    \
@@ -44,7 +44,7 @@
  </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-a-05</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart4.webp)
    \
@@ -54,7 +54,7 @@
  </details>
  
    <details>
-   <summary>reflection</summary>
+   <summary>reflection-a-06</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart5.webp)
    \
@@ -125,7 +125,7 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom3.webp" width="384" height="216"/>
  
-  </details>
+   </details>
  
    <details>
    <summary>reflection</summary>
@@ -134,16 +134,26 @@
    \
    ![cue]()
    \
+
+ </details>
+ 
+  </details>
+ 
+   <details>
+   <summary>reflection</summary>
+      
+   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom2.webp)
+   \
+   ![cue]()
+   \
+
    
+   \
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/featherskip1.webp)
    \
    
    \
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/featherskip2.webp)
-   \
-   
-   \
-   ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/featherskip3.webp)
    \
    ![cue[()
    \
