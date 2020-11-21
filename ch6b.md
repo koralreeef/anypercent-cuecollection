@@ -127,9 +127,9 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling4.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779329378114732032/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779584071214432256/unknown.png)
    \
-   For this demo, wait until Madeline is in the center of this tiling in the background and her hair is lined up to the tiling. For the last two gaps, you can fastfall and hold left for the duration of the dash and go neutral afterwards.
+   For this demo, wait until Madeline is lined up to the bottom of the giant green crystal. For the last two gaps, you can fastfall and hold left for the duration of the dash and go neutral afterwards.
  </details>
  
  ----
