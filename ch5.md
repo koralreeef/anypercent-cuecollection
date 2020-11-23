@@ -109,10 +109,12 @@
  ----
  **The rest of the content here is targeted towards an A-Side clear.**
 ## Post-Tape
-
+(coming soon)
 ## After-DCB 
 
 ## Unravelling
 
 ## Rescue 
-must educate the gamers 
+
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
