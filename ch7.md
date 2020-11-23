@@ -86,7 +86,7 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m5.webp" width="384" height="216"/>
   
   <details>
-      <summary>summit</summary>
+      <summary>summit-b-01</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m1.webp)
    \
@@ -96,7 +96,7 @@
  </details>
  
    <details>
-      <summary>summit-b-01</summary>
+      <summary>summit-b-02</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m2.webp)
    \
@@ -107,7 +107,7 @@
  </details>
  
    <details>
-      <summary>summit-b-02</summary>
+      <summary>summit-b-03 -> b-05</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m3.webp)
    \
@@ -117,7 +117,7 @@
  </details>
  
    <details>
-      <summary>summit-b-03 -> b-05</summary>
+      <summary>summit-b-06</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m4.webp)
    \
@@ -228,7 +228,7 @@
 
  </details>
  
-    <details>
+   <details>
       <summary>summit-d-05, 2nd ultra room</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m5.webp)
@@ -238,7 +238,7 @@
 
  </details>
  
-    <details>
+   <details>
       <summary>summit-d-06</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m6.webp)
