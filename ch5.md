@@ -106,10 +106,8 @@
    right dash and buffer the upright + hyper bhop to make the last hyper more lenient. After hypering to the pink block, dash three times and wait a tiny bit before an extended hyper + ultra.
  </details>
  
- **The rest of the content here is targeted for the A-Side Clear. Head back to the md list if you want to proceed with 5b.**
- \
- (to-do after summit)
  ----
+ **The rest of the content here is targeted towards an A-Side clear.**
 ## Post-Tape
 
 ## After-DCB 
