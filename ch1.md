@@ -3,7 +3,7 @@
    - [Start](#start)
    - [Crossing](#crossing)
    - [Chasm](#chasm)
-   
+
  ## Start
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="384" height="216"/>
@@ -85,3 +85,5 @@
    \
    This strat becomes manageable if you know what to look for. Neutral and hold jump off the circled corner, then upright dash + buffer neutral jump at any point past the line. Be sure to start holding left as soon as you see madeline cornerkick.
   </details>
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
