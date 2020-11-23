@@ -22,7 +22,7 @@
    \
   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779315012672946176/unknown.png)
    \
-   Start an updash here and during the dash, buffer a left wallbounce. Since you are in dash state, you won't move from the inital dash line and can buffer a left wallbounce this way.
+   Start an updash here and during the dash and wallbounce, do not hold left, only up. Make sure to buffer the jump, and only hold left after Madeline wallbounces off the tiny wall.
  </details>
  
    <details>
