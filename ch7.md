@@ -30,7 +30,7 @@
  </details>
  
 ## 0M
-  \    
+\    
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m3.webp" width="384" height="216"/>
