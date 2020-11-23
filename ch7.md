@@ -42,7 +42,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m1.webp)
    \
-   
+   The main thing to watch for when doing the upright > right dashes here is to wait a tiny bit after the inital upright to get more height out of your dash. Also make sure you're holding jump the entire time.
  </details>
  
    <details>
@@ -52,7 +52,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780302772582481931/unknown.png)
    \
-
+   Land on the leftmost side of the platform, short hyper into the screen and hold jump, and buffer the upright dash to get the spring hit.
  </details>
  
   <details>
@@ -60,7 +60,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m3.webp)
    \
-
+   Hit the spring on the top half and buffer your upright to pass over the spinners.
  </details>
  
   </details>
@@ -73,7 +73,7 @@
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780302907731869707/unknown.png)
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303042813755422/unknown.png)
    \
-
+   After collecting the second dash crystal, do a right dash > neutral wallbounce. Buffer the upright > right dashes once Madeline is lined up with the spikes (left cue). After the right dash, hold left once you pass the spring pillar. (right cue)
  </details>
 
 ----
@@ -90,9 +90,10 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m1.webp)
    \
-   ![cue]()
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303196195127316/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303303602339840/unknown.png)
    \
-
+   Wavedash and right > up dash at the left cue. Downright > downleft dash at the right cue. Make sure if you use these cues to NOT buffer the dashes.
  </details>
  
    <details>
@@ -100,10 +101,9 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303196195127316/unknown.png)
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303303602339840/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303423462440980/unknown.png)
    \
-
+   Before Madeline passes this line, do a upright > up dash to setup the wallbounce. Do NOT buffer these dashes either.
  </details>
  
    <details>
@@ -111,9 +111,10 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303423462440980/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303831408967680/unknown.png)
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780498911096995871/unknown.png)
    \
-
+   To get the reverse super off the traffic block, make sure to start it once the traffic block has come halfway up from its startion position. For grabbing the first coin, hold right until Madeline passes this corner (left cue), and hold left after Madeline passes this background line. (right cue)
  </details>
  
    <details>
@@ -121,9 +122,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m4.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303831408967680/unknown.png)
-   \
-
+   An alternate to the upright > right exit from b-05, dashjump off the platform before entering b-06 to match the other strat. To extend the super, try to hold right after hitting your dash button to ensure you get the dash back.
  </details>
  
    <details>
@@ -133,7 +132,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303951638560828/unknown.png)
    \
-
+   After badeline throws you, hold right until madeline is lined up with this background object. Once lined up, do unbuffered left > upleft dashes and buffer the cornerkick. After badeline throws you again, buffer the up > upright dashes and climbjump on each of the platform and traffic block to reach the wall in time.
  </details>
 
 ----
@@ -149,7 +148,9 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1000m1.webp)
    \
-
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780501300030210048/unknown.png)
+   \
+   Start the room with a max height super and upright > right dashes. Make sure Madeline is around this height before doing the demo, otherwise she will die on the other side of the dream block.
  </details>
  
    <details>
