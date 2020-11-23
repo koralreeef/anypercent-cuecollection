@@ -56,7 +56,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776232269656358912/unknown.png)
    \
-   After jumping from the bubble downdiag, go neutral until the peak of your jump then wavedash, buffer upright, and cb.
+   After jumping from the bubble downdiag, go neutral until the peak of your jump then wavedash, buffer upright, and cb. You can also hold right without needing to go neutral, whichever works for you.
  </details>
  
  ----
@@ -93,7 +93,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776222444733202472/shrine3.PNG)
    \
-   Fulljump when Madeline is covering the diamond in the bg, then hold left after passing the other top right diamond corner. 
+   Fulljump when Madeline is covering the diamond in the background, then hold left after passing the other top right diamond corner. 
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776234886158745630/unknown.png)
    \
@@ -115,7 +115,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776222446591148052/trail1.PNG)
    \
-   Hold jump on the reverse hyper, and aim to do your coyote jump around here.
+   Hold jump on the reverse hyper until transition and hold right the entire time, and aim to do your coyote jump around here.
  </details>
  
    <details>
@@ -137,7 +137,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776237195602034738/unknown.png)
    \
-   have Madeline's right foot be on the platform before starting the extended hyper to be consistent.
+   Have Madeline's right foot be on the platform before starting the extended hyper to be consistent.
  </details>
  
  <details>
@@ -178,7 +178,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776222448721985566/face3.PNG)
    \
-   When Madeline passes this line, jump + downright dash to the bubble.
+   When Madeline passes this line, jump + downright dash at almost the same time to get to the bubble. Make sure to hold grab while doing the jump.
  </details>
  
   <details>
