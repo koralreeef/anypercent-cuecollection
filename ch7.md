@@ -132,7 +132,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780303951638560828/unknown.png)
    \
-   After badeline throws you, hold right until madeline is lined up with this background object. Once lined up, do unbuffered left > upleft dashes and buffer the cornerkick. After badeline throws you again, buffer the up > upright dashes and climbjump on each of the platform and traffic block to reach the wall in time.
+   After badeline throws you, hold left until madeline is lined up with this background object. Once lined up, do unbuffered left > upleft dashes and buffer the cornerkick. After badeline throws you again, buffer the up > upright dashes and climbjump on each of the platform and traffic block to reach the wall in time.
  </details>
 
 ----
@@ -468,7 +468,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/780312160194002964/unknown.png)
    \
-  Hit the upper half of the spring and buffer your upright > up dashes after you pass this background cue. For flag 12, buffer each first dash when grabbing a crystal to get more height before going for the up > upleft after the second crystal.
+  Hit the upper half of the spring and buffer your upleft > up dashes after you pass this background cue. For flag 12, buffer each first dash when grabbing a crystal to get more height before going for the up > upright after the second crystal.
  </details>
  
    <details>
@@ -507,3 +507,5 @@
    \
    After the wallbounce, right > buffered up + upright dashes. After the next up + upright dashes, do a max height jump and upright > min jump super to set up the next series of dashes.
  </details>
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
