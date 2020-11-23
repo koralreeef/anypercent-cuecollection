@@ -177,7 +177,7 @@
  </details>
  
   <details>
-      <summary>resort-02-d tas cycle, jacks setup</summary>
+      <summary>resort-02-d tas cycle, jacks's setup</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shaft2.webp)
    \
