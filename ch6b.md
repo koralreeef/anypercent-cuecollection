@@ -321,3 +321,5 @@
    \
    This is the second setup, opting for a diagonal dash into an instant super (dash + jump at same time).
  </details>
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
