@@ -11,7 +11,7 @@ Cue and setup collections for each of the 7 levels in any%. Note that this follo
 I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](https://discord.com/invite/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
 \
 \
-**general note:** These aren't necessarily the fastest strats, just cues and setups that are mostly consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk.
+**General Note:** These aren't necessarily the fastest strats, just cues and setups that are mostly consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk.
 
 ## Key Cycles and Misc. Terms
 According to fishmcmuffins:
