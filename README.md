@@ -5,8 +5,19 @@
 - [Key Cycles](#key-cycles)
 - [Format of Guide](#formatting)
 - [Credits](#credits)
+## Content
+You can access each markdown file through the table of contents, or by opening each markdown file at the top in a new link.
+- [Forsaken City](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch1.md)
+- [Old Site](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch2.md)
+- [Celestial Resort](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch3.md)
+- [Golden Ridge](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch4.md)
+- [Mirror Temple](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch5.md)
+- [Mirror Temple B-Side](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch5b.md)
+- [Reflection](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch6.md)
+- [Reflection B-Side](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch6b.md)
+- [The Summit](https://github.com/koralreeef/anypercent-cuecollection/blob/main/ch7.md)
 ## Introduction
-Cue and setup collections for each of the 7 levels in any%. Note that this follows current optimal route of 5b and 6b. This guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b.
+Cue and setup collections for each of the 7 levels in any%. Note that this follows current optimal route of 5b and 6b. This guide will be updated with 5a/6a in the distant future, but the focus currently is on finishing 5b/6b. 
 \
 I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](https://discord.com/invite/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
 \
@@ -43,4 +54,4 @@ Thanks to czyys and buhbai for their github guides and being the inspiration to 
 
 ## Updates
 11/23/20: first release, pog
-
+11/23/20: table of contents lol
