@@ -37,7 +37,7 @@
  ----
  ## Tape
  \
- ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/hollows1b.webp)
+ ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/hollows1b.webp)
  \
  ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779398850623701023/unknown.png)
  \
