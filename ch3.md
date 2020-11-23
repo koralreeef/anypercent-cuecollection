@@ -221,3 +221,5 @@
    Hit the middle/right side of the spring, and be close to this column of dust bunnies before dashing for clean landing and skipping the spring hit + downdash.
  </details>
  
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
