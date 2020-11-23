@@ -117,9 +117,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo1.webp)
    \
-   To enter the room, hyper into Theo and throw him before passing the barrier. A Theo ultra here should let you fly into the seeker and let you over the wall. For the second seeker, neutral kick off the wall and upright dash + throw Theo at the same time. You might need to bop the seeker but in every case, you won't ever die to it. 
-   \
-   
+   To enter the room, hyper into Theo and throw him before passing the barrier. A Theo ultra here should let you fly into the seeker and let you over the wall. For the second seeker, neutral kick off the wall and upright dash + throw Theo at the same time. You might need to bop the seeker but in every case, you won't ever die to it.  
  </details>
  
    <details>
