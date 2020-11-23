@@ -210,3 +210,5 @@
    \
    Hold jump after doing the reverse wavedash from the bubble and ultra at anytime while above this cue. It can be also easier to think of the bubble as just another dash.
  </details>
+
+[⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
