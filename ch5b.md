@@ -133,7 +133,7 @@
    \
    Dash into the corner and hyper into Theo again, and throw him when you get to the middle of this pillar. For the updash into the button, use the same pillar as a guide since in runs, Theo's dialogue would be covering it.
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779136731974336512/unknown.png
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779136731974336512/unknown.png)
    For the last room, hyper bhop into Theo or Theo ultra and jump and start the regrab throw between this eye in the background and the pillar.
  </details>
  
