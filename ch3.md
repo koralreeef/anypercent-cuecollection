@@ -185,7 +185,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775572736143261746/unknown.png)
    \
-   Start a hyper on or before this chair in the background, buffer jump, hold jump and upleft dash on at the start of this bookshelf to set up the cb. thanks jacks :)
+   Dash downleft on this chair in the background to start a hyper in the next screen, buffer jump after transition, hold jump and upleft dash on at the start of this bookshelf to set up the cb. thanks jacks :)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775572979035406356/unknown.png)
    \
