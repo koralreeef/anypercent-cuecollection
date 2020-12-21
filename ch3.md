@@ -185,7 +185,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775572736143261746/unknown.png)
    \
-   hyper after or before this lantern cue, hold jump and upright dash on at the start of this bookshelf to set up the cb. thanks jacks :)
+   Hyper on or before this chair in the background, buffer jump, hold jump and upleft dash on at the start of this bookshelf to set up the cb. thanks jacks :)
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775572979035406356/unknown.png)
    \
