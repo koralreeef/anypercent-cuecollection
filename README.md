@@ -2,7 +2,7 @@
 ![header](https://cdn.discordapp.com/attachments/293555577991200770/774874797506560040/unknown.png)
 ## Read me first!
 - [Introduction](#introduction)
-- [Key Cycles](#key-cycles)
+- [Key Cycles](#key-cycles-and-misc-terms)
 - [Format of Guide](#formatting)
 - [Credits](#credits)
 ## Content
