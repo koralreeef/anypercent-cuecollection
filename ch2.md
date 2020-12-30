@@ -62,7 +62,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432168222621716/intervention_1.PNG)
    \
-   After upright dashing from the bottom of the dream block, grab the corner of the 2nd dream block and climb up to the ceiling. At this point, you should be able to upleft dash    cleanly through the dream block and skip the long way around.
+   After upleft dashing from the bottom of the dream block, grab the corner of the 2nd dream block and climb up to the ceiling. At this point, you should be able to upleft dash    cleanly through the dream block and skip the long way around.
    </details>
   
   <details>
