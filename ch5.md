@@ -89,8 +89,6 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247965407772672/5start1.PNG)
-   \
   To set up the reverse demohyper, simply jump and upright dash almost directly after. Wavedash after Madeline is on the right side of the torch to not miss the button.
   Be careful not to perform the wavedash + upleft too fast otherwise you might miss the button anyway.
  </details>
@@ -99,8 +97,6 @@
       <summary>temple-b-22, cassette</summary>
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths4.webp)
-   \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247965407772672/5start1.PNG)
    \
    Enter with hyper speed, then downright + upleft dash/wallkick + right dash to set up the first cycle. Once you hear the tick for the blue block to disappear,
    right dash and buffer the upright + hyper bhop to make the last hyper more lenient. After hypering to the pink block, dash three times and wait a tiny bit before an extended hyper + ultra.
