@@ -129,7 +129,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779584071214432256/unknown.png)
    \
-   For this demo, wait until Madeline is lined up to the bottom of the giant green crystal. For the last two gaps, you can fastfall and hold left for the duration of the dash and go neutral afterwards.
+   For this demo, wait until Madeline is lined up to the bottom of the giant green crystal. For the last two gaps, you can fastfall and go neutral after each left dash.
  </details>
  
  ----
@@ -146,7 +146,9 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom1.webp)
    \
-   After the badeline hit, dash into the wall and hold left until you see some puffs of smoke. When you see these puffs, buffer a short hyper. At this point Madeline should be getting onto the block and will be doing the buffered hyper. If a super comes out instead of a hyper, try to input down then right first when doing the buffered hyper.
+   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/821626679687381032/unknown.png)
+   \
+   After the badeline hit, dash into the wall and hold left until the top of the falling block is below this wall, then hold down (keep holding left) to be on the block and short hyper. If a super comes out instead of a hyper, try to input down then right first when doing the short hyper.
  </details>
  
   </details>
