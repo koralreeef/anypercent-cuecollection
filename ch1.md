@@ -83,7 +83,7 @@
    \
    ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775398291177209886/unknown.png) 
    \
-   This strat becomes manageable if you know what to look for. Neutral and hold jump off the circled corner, then upright dash + buffer neutral jump at any point past the line. Be sure to start holding left as soon as you see madeline cornerkick.
+   This strat becomes manageable if you know what to look for. Neutral, wallkick and hold jump off the circled corner, then upright dash + buffer neutral jump at any point past the line. Be sure to start holding left as soon as you see madeline cornerkick.
   </details>
 
 [⇦ Back to Main Page](https://github.com/koralreeef/anypercent-cuecollection)
