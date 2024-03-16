@@ -1,5 +1,6 @@
+# THE GUIDE IS CURRENTLY BROKEN, I AM AWARE AND FIXING THIS
 # Celeste Any% - Visual Cue and Setup Collection
-![header](https://cdn.discordapp.com/attachments/293555577991200770/774874797506560040/unknown.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
 ## Read me first!
 - [Introduction](#introduction)
 - [Key Cycles](#key-cycles-and-misc-terms)
@@ -46,12 +47,13 @@ I'll shorten some terms when writing descriptions, so terms such as cb and demo 
 This collection will be split up into different markdown files to avoid needing to load 50+ gifs at a time when checking this page. Each chapter will have its own table of contents and follow the format given below. 5A and 6A (Mirror Temple and Reflection) will have their tape segment + A-Side clear cues together, as the tape cues can be applied to the regular A-Side clear.
 Attached below are some drawings of format of the guide, and you should read it as such.
 \
-![1](https://cdn.discordapp.com/attachments/293555577991200770/775444116707606558/unknown.png)
-![for now](https://cdn.discordapp.com/attachments/293555577991200770/775400802339913768/unknown.png)
+![1](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/tutorial1.png)
+![for now](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/tutorial2.png)
 
 ## Credits
 Thanks to czyys and buhbai for their github guides and being the inspiration to start my own collection of strats. Thanks to everyone who proofread or pointed out errors in the guide, I appreciate it greatly. Thanks to fishmcmuffins for giving an explanation of key cycles + offering some of the setups you see here. Thanks for reading and I hope this guide can be of help in any way.
 
 ## Updates
-11/23/20: first release, pog
-11/23/20: table of contents lol
+11/23/20: first release, pog \
+11/23/20: table of contents lol \
+3/15/24: FIXING IMAGES WIP (THANK YOU DISCORD)
