@@ -1,5 +1,5 @@
 # Old Site
-   ![header](https://cdn.discordapp.com/attachments/293555577991200770/776706448184573962/unknown.png)
+   ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch2header.png)
    - [Start](#start)
    - [Intervention](#intervention)
    - [Awake](#awake)
@@ -15,7 +15,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432161359560717/start_1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/2start1.png)
    \
    Downright dashing at this point allows you to gain your dash back while still breaking the block. Buffer a downright here or do the bhop strat afterwards.
    </details>
@@ -25,7 +25,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start2.webp)
    \
-   <img src="https://cdn.discordapp.com/attachments/293555577991200770/775432165654790154/start_2.PNG" width="340" height="240"/>
+   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/2start2.png" width="340" height="240"/>
    \
    Upleft dashing between these two blue lines guarantees Madeline's Y-position always being in the dream block after the cutscene skip.
    </details>
@@ -60,7 +60,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432168222621716/intervention_1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/intervention1.png)
    \
    After upleft dashing from the bottom of the dream block, grab the corner of the 2nd dream block and climb up to the ceiling. At this point, you should be able to upleft dash    cleanly through the dream block and skip the long way around.
    </details>
@@ -70,7 +70,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775436566852010034/unknown.png)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/intervention2.png)
    \
    This neutral cornerkick is extremely feel based and hard to get down at first, but this cue might help for getting muscle memory on the right track. Line up Madeline's feet to this line in the background here and upright dash > buffer neutral jump. It also helps to get to the left side of the coin block ASAP as its activating.
    </details>
@@ -80,7 +80,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention5.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432169609887804/intervention_5.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/intervention5.png)
    \
    Stand on the coin, extend your hyper as much as possible, hold jump and down and right. You should only need to adjust for the 3rd coin with this.
    </details>
@@ -90,7 +90,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432168834990080/intervention_3.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/intervention3.png)
    \
    This is the correct height needed to get the downright cb, noted by Madeline lining up with the pink space pixels. If you aren't lined up, back this up with an upright dash to get to the platform. You will die or lose more time otherwise.
    </details>
@@ -117,11 +117,11 @@
    dont buffer any jumps out of ultras in this section otherwise you lose speed
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432167210745876/awake_1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/awake1.png)
    \
    Demohyper off the platform and ultra using this corner as an indicator. 
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775432168628682762/awake_2.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/awake2.png)
    \
    If you hit the ultra in the previous screen, be past this corner then ultra to line up the next demohyper. 
   </details>
@@ -131,7 +131,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775439313017634826/unknown.png)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/awake3.png)
    \
    Start both wavedashes on this ledge, buffer the jump out of the second wavedash through transition to setup this cb.
   </details>

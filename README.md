@@ -40,7 +40,7 @@ According to fishmcmuffins:
 
 - General rule of thumb with a key you save 2 frames for every 3 frames you save unless you make a better cycle."
 
-Even though I will assume that you know general game mechanics and terminology, I think these key cycles can help for people to understand how exactly to achieve the fast key cycles shown in this guide. (2 in resort start, 1 in 2500m) If you need help in understanding these terms, the [celeste wiki](https://celestegame.fandom.com/wiki/Moves) has some great stuff for each action you can perform in Celeste.
+Even though I will assume that you know general game mechanics and terminology, I think these key cycles can help for people to understand how exactly to achieve the fast key cycles shown in this guide. (2 in resort start, 1 in 2500m) If you need help in understanding these terms, the [celeste wiki](https://celeste.ink/wiki/Techniques) has some great stuff for each action you can perform in Celeste.
 \
 I'll shorten some terms when writing descriptions, so terms such as cb and demo refer to cornerboosting and demodashing, respectively. Other terms such as coyote will always refer to needing coyote time before a certain action.
 ## Formatting
@@ -48,7 +48,7 @@ This collection will be split up into different markdown files to avoid needing 
 Attached below are some drawings of format of the guide, and you should read it as such.
 \
 ![1](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/tutorial1.png)
-![for now](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/tutorial2.png)
+![2](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/tutorial2.png)
 
 ## Credits
 Thanks to czyys and buhbai for their github guides and being the inspiration to start my own collection of strats. Thanks to everyone who proofread or pointed out errors in the guide, I appreciate it greatly. Thanks to fishmcmuffins for giving an explanation of key cycles + offering some of the setups you see here. Thanks for reading and I hope this guide can be of help in any way.

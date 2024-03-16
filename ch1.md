@@ -1,5 +1,5 @@
 # Forsaken City     
-![header](https://cdn.discordapp.com/attachments/293555577991200770/776706041667911700/unknown.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch1header.png)
    - [Start](#start)
    - [Crossing](#crossing)
    - [Chasm](#chasm)
@@ -31,7 +31,7 @@
    
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394871011311626/start3.PNG) 
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/start1.png) 
    \
    Do a min dashjump, pressing dash+jump at almost the same time around this point where the traffic block passed and you can get a clean landing pretty easily.
    </details>
@@ -49,13 +49,13 @@
    \
   This is already covered in bubs guide, but buffer wallbounce on screen 1, demohyper bhop at the peak of your height and dash upright at this coffee shop corner.
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394867508674582/cue_32.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/crossing1.png)
    \
    Make sure to wait a bit for the previous updiag speed to carry you up more, then updash. 
    \
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/slowmo.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394870897934366/zkad_cue.PNG) 
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/crossing2.png) 
    \
    The key here for this spring skip is to get an ultra that lands on this tile and jumping instantly. You'll know when you've gotten this with a different landing sound.
    After holding jump, down, and right through transition, you want to let go of jump after madeline has passed the spring, and demo to the other spring. The ultra here requires a certain feel but these cues should push you in the right direction.
@@ -66,7 +66,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775394864438968320/crsoggin_2nd_pil.PNG) 
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/crossing3.png) 
    \
    Doing this upright dash right on this cue allows you to land on the far left on the crumble block and lets you get your dash back easily.
   </details>
@@ -81,7 +81,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chasm.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/775398291177209886/unknown.png) 
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/chasm1.png) 
    \
    This strat becomes manageable if you know what to look for. Neutral, wallkick and hold jump off the circled corner, then upright dash + buffer neutral jump at any point past the line. Be sure to start holding left as soon as you see madeline cornerkick.
   </details>
