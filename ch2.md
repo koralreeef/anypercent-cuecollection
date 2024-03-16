@@ -25,7 +25,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start2.webp)
    \
-   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/2start2.png" width="340" height="240"/>
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/2start2.png)
    \
    Upleft dashing between these two blue lines guarantees Madeline's Y-position always being in the dream block after the cutscene skip.
    </details>
@@ -114,7 +114,7 @@
  <details>
       <summary>site-end_2 -> end_4</summary>
       
-   dont buffer any jumps out of ultras in this section otherwise you lose speed
+   note: Don't buffer any jumps out of ultras in this section otherwise you lose speed.
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake1.webp)
    \
    ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/awake1.png)
