@@ -31,7 +31,7 @@
    
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp)
    \
-   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/start1.png) 
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/start3.png) 
    \
    Do a min dashjump, pressing dash+jump at almost the same time around this point where the traffic block passed and you can get a clean landing pretty easily.
    </details>
