@@ -58,5 +58,5 @@ Thanks to czyys and buhbai for their github guides and being the inspiration to 
 ## Updates
 11/23/20: first release, pog \
 11/23/20: table of contents lol \
-3/15/24: FIXING IMAGES WIP (THANK YOU DISCORD)
+3/15/24: FIXING IMAGES WIP (THANK YOU DISCORD) \
 3/21/24: update ch3 + committed to documenting 2024 strats
