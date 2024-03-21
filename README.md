@@ -1,5 +1,4 @@
 # THE GUIDE IS CURRENTLY BROKEN, I AM AWARE AND FIXING THIS
-# branch for testing visuals we fucking made it
 # Celeste Any% - Visual Cue and Setup Collection
 ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
 ## Read me first!
@@ -24,7 +23,9 @@ Cue and setup collections for each of the 7 levels in any%. Note that this follo
 I assume that the reader already knows what hypers, demohypers, supers, cornerboosts, and other important mechanics are. If you are still getting started with running Celeste and speedrunning in general, I highly suggest joining the [Celeste discord](https://discord.com/invite/celeste) and taking a look at the speedrunning section. The pinned messages in #speedrun-general and #speedrun-help are great resources for new runners and are more beneficial than this visual cue collection.
 \
 \
-**General Note:** These aren't necessarily the fastest strats, just cues and setups that are mostly consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral👑#0004 on discord and I'll be happy to talk.
+**General Note:** These aren't necessarily the fastest strats, just cues and setups that are mostly consistent and what I use. I'll be open to add other cues once I've finished my part in creating a foundation for the guide. If you have any suggestions for cues, DM me at koral on discord and I'll be happy to talk.
+
+**2024 Note:** I've started adding multiple variations to some strats, with the (2024) label on them. These are harder variants of strats that have evolved over time. Don't feel bad if you can't get these down as fast! These are quite hard and are required only at 26 Any% level and below.
 
 ## Key Cycles and Misc. Terms
 According to fishmcmuffins:
@@ -58,3 +59,4 @@ Thanks to czyys and buhbai for their github guides and being the inspiration to 
 11/23/20: first release, pog \
 11/23/20: table of contents lol \
 3/15/24: FIXING IMAGES WIP (THANK YOU DISCORD)
+3/21/24: update ch3 + committed to documenting 2024 strats
