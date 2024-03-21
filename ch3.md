@@ -68,7 +68,7 @@
    \
    ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/3start8.png)
    \
-   To guarantee a non zero frame window on the next room wallbounce, input two right dashes (not buffered) after the cutscene skip and hyper while holding jump at any point past this luggage cart in the background.
+   To guarantee a non zero frame window on the next room wallbounce, input two right dashes (not buffered) after the cutscene skip and hyper while holding jump at any point past this luggage cart in the background. Make sure to let go of jump after hitting the transition.
  </details>
 
  <details>
@@ -151,7 +151,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess3.webp)
    \
-   Get into the crates corner, then jump and left + buffered upleft demo. After transition, hold right and buffer a right climbjump. 
+   Get into the crates corner, then jump and left dash + buffered upleft demo. After transition, hold right and buffer a right climbjump. 
  </details>
  
   <details>
