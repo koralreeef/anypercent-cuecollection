@@ -15,8 +15,6 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start7.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start8.webp" width="384" height="216"/>
  
- 
- 
  <details>
       <summary>resort-s3 -> 0x,1st fast key</summary>
       
@@ -70,7 +68,7 @@
    \
    ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/3start8.png)
    \
-   To guarantee a non zero frame window on the next room wallbounce, input two right dashes (not buffered) after the cutscene skip and hyper while holding jump at any point past this luggage cart in the background.
+   To guarantee a non zero frame window on the next room wallbounce, input two right dashes (not buffered) after the cutscene skip and hyper while holding jump at any point past this luggage cart in the background. Make sure to let go of jump after hitting the transition.
  </details>
 
  <details>
@@ -153,7 +151,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess3.webp)
    \
-   Get into the crates corner, then jump and left + buffered upleft demo. After transition, hold right and buffer a right climbjump. 
+   Get into the crates corner, then jump and left dash + buffered upleft demo. After transition, hold right and buffer a right climbjump. 
  </details>
  
   <details>
@@ -246,6 +244,9 @@
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro2.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro3.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro4.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro5.webp" width="384" height="216"/>
 
  <details>
       <summary>resort-roof00</summary>
@@ -294,6 +295,7 @@
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro5.webp)
    \
    ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/oshiro6.png)
+   \
    Extend your hyper from the previous room and dash at the right side of the first crystal to chain the rest of the right dashes smoothly.
  </details>
 
