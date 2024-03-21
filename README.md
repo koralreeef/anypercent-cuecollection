@@ -1,4 +1,5 @@
 # THE GUIDE IS CURRENTLY BROKEN, I AM AWARE AND FIXING THIS
+# branch for testing visuals we fucking made it
 # Celeste Any% - Visual Cue and Setup Collection
 ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
 ## Read me first!
