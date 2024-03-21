@@ -15,8 +15,6 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start7.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start8.webp" width="384" height="216"/>
  
- 
- 
  <details>
       <summary>resort-s3 -> 0x,1st fast key</summary>
       
@@ -246,6 +244,9 @@
  \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro2.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro3.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro4.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro5.webp" width="384" height="216"/>
 
  <details>
       <summary>resort-roof00</summary>
@@ -294,6 +295,7 @@
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro5.webp)
    \
    ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/oshiro6.png)
+   \
    Extend your hyper from the previous room and dash at the right side of the first crystal to chain the rest of the right dashes smoothly.
  </details>
 
