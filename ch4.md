@@ -16,7 +16,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start1.webp)
    \
-   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/4start1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/test/pngs/4start1.PNG)
    \
    Start a hyper bhop on the second platform and aim to bhop on the left side of this diamond. Once you bhop, hold jump and perform a cb with your 2nd jump button to set up a reverse wavedash ultra.
    \
