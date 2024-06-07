@@ -6,7 +6,16 @@
    - [Cliff Face](#cliff-face)
 ## Start
  \
- 
+ <details>
+      <summary>preview</summary>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start1.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start2.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start3.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start4.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start5.webp" width="384" height="216"/>
+ <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start6.webp" width="384" height="216"/>
+ </details>
+
  <details>
       <summary>ridge-a-01x, reverse wavedash setup</summary>
       
