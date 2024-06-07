@@ -1,17 +1,11 @@
 # Golden Ridge
-![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch4header.png)
    - [Ridge Start](#start)
    - [Shrine](#shrine)
    - [Old Trail](#old-trail)
    - [Cliff Face](#cliff-face)
 ## Start
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start2.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start3.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start4.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start5.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start6.webp" width="384" height="216"/>
  
  <details>
       <summary>ridge-a-01x, reverse wavedash setup</summary>
@@ -87,10 +81,6 @@
  ----
  ## Shrine
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shrine1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shrine2.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shrine3.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shrine.webp" width="384" height="216"/>
 
  <details>
       <summary>ridge-b-00, spikejump</summary>
@@ -143,15 +133,7 @@
  ----
  ## Old Trail
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/trail1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/trail2.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/trail3.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/trail4.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oldtrail1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oldtrail2.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oldtrail3.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oldtrail4.webp" width="384" height="216"/>
- 
+
  <details>
       <summary>ridge-c-05, coyote jump</summary>
       
@@ -232,14 +214,7 @@
   ----
  ## Cliff Face
  \
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face2.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face3.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face4.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/face5.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/cliffface1.webp" width="384" height="216"/>
- <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/cliffface2.webp" width="384" height="216"/>
- 
+
   <details>
       <summary>ridge-d-01</summary>
       
