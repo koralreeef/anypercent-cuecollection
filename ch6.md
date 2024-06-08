@@ -1,5 +1,5 @@
 # Reflection
- ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776739231787778068/unknown.png)
+ ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch6aheader.png)
    - [Lake](#lake)
    - [Tape](#tape)
  - [Post-Tape](#post-tape)
@@ -20,7 +20,7 @@
    \
    To setup lake skip, buffer up > upleft > upleft dashes and jump from the water. Do one climbjump on the wall and wallkick on the second jump. The cue for lake skip is lining up between these two green tiles in the background.
    \
-  ![cue](https://cdn.discordapp.com/attachments/293555577991200770/788447626554245150/unknown.png)
+  ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/6start1.png)
    \
    Start an updash here and during the dash and wallbounce, do not hold left, only up. Make sure to buffer the jump, and only hold left after Madeline wallbounces off the tiny wall.
  </details>
@@ -39,7 +39,7 @@
  \
  ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/hollows1b.webp)
  \
- ![cue](https://cdn.discordapp.com/attachments/293555577991200770/779398850623701023/unknown.png)
+ ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/6start2.png)
  \
  After dashing into the kevin's left side, let Madeline walk to this cue and quickly turn left and short hyper. Do two full jumps afterwards and use dashes to get to the pink block. Make sure the inital jump in the tape screen is NOT a coyote jump, otherwise you have to adjust for going too fast.
  
@@ -47,7 +47,7 @@
  **The rest of the content here is targeted towards an A-Side clear.**
  # Post Tape
  ## Hollows
- coming soon
+(coming never? dm me if you want to contribute to this)
  ## Reflection
  
  ## Rock Bottom
