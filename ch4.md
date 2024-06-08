@@ -5,7 +5,6 @@
    - [Old Trail](#old-trail)
    - [Cliff Face](#cliff-face)
 ## Start
- \
  <details>
       <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/4start1.webp" width="384" height="216"/>
