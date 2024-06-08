@@ -1,5 +1,5 @@
 # Mirror Temple B-Side
-![header](https://cdn.discordapp.com/attachments/293555577991200770/776765497256443915/unknown.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch5bheader.png)
    - [Central Chamber](#central-chamber)
    - [Through The Mirror](#through-the-mirror)
    - [Mix Master](#mix-master)

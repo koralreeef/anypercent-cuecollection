@@ -1,5 +1,5 @@
  # Reflection B-Side
-  ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776766236561375233/unknown.png)
+  ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch6bheader.png)
    - [Start](#start)
    - [Falling (Reflection)](#falling)
    - [Rock Bottom](#rock-bottom)

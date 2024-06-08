@@ -1,5 +1,5 @@
 # Golden Ridge
-![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch4header.png)
    - [Ridge Start](#start)
    - [Shrine](#shrine)
    - [Old Trail](#old-trail)

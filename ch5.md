@@ -1,5 +1,5 @@
 # Mirror Temple
-![cue](https://cdn.discordapp.com/attachments/293555577991200770/776724219308277760/unknown.png)
+![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch5aheader.png)
    - [Start](#start)
    - [Depths](#depths)
  - [Post-Cassette](#post-tape)

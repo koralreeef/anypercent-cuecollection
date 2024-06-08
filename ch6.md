@@ -1,5 +1,5 @@
 # Reflection
- ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776739231787778068/unknown.png)
+ ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch6aheader.png)
    - [Lake](#lake)
    - [Tape](#tape)
  - [Post-Tape](#post-tape)
