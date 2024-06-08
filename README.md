@@ -59,4 +59,6 @@ Thanks to czyys and buhbai for their github guides and being the inspiration to 
 11/23/20: first release, pog \
 11/23/20: table of contents lol \
 3/15/24: FIXING IMAGES WIP (THANK YOU DISCORD) \
-3/21/24: update ch3 + committed to documenting 2024 strats
+3/21/24: update ch3 + committed to documenting 2024 strats \
+6/7/24: resume work, update ch4. \
+6/8/24: introduced dropdown tabs for preview gifs to not nuke low specs systems (including my own lol) 
