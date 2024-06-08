@@ -1,5 +1,5 @@
  # The Summit
- ![header](https://cdn.discordapp.com/attachments/293555577991200770/776767694358970408/unknown.png)
+  ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/ch7header.png)
  
    - [0M](#0m)
    - [500M](#500m)
