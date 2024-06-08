@@ -18,10 +18,9 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247965407772672/5start1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/5start2.PNG)
    \
-   Enter with a hyper bhop, then wavedash and hold jump until the cb. Try to downright in between these two cracks to slide under the ceiling. Do a wavedash + ultra off the 
-   platform to set up the next screen cb.
+   Enter with a hyper bhop, then wavedash and hold jump until the cb. Try to downright in between these two cracks to slide under the ceiling. Do a wavedash + ultra off the platform to set up the next screen cb.
  </details>
  
   <details>
@@ -29,11 +28,11 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247966868307978/5start2.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/5start3.PNG)
    \
    Short hyper in the previous screen, then buffer upright + right dashes. Upright dash before the bubble reaches the line in the cue, and fastfall to make the cycle.
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776728734022631444/unknown.png)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/5start5.png)
    \
    For this cb, upleft dash when the bubble reaches this line.
  </details>
@@ -43,12 +42,12 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start3.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247967858163742/5start3.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/5start4a.PNG)
    \
    After the key door unlocks, hyper bhop into a wavedash. It is important that the wavedash is started under the lowest ceiling here marked. After the wavedash, 
    jump and upright dash.
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247969409269830/5start4.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/5start4b.PNG)
    \
    Cornerkick after the screen transition, hold jump, and upright dash around here. When you reach the peak of your dash height,
    cutscene skip immediately to have Madeline's Y-Position be on the button. If you feel you are too low when you pause, you can try to save yourself by buffering downdash and pressing the button before it kills you.
@@ -67,7 +66,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths1.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776247997502849035/depths1.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/depths1.PNG)
    \
    To line up the neutral cornerkick (or turnaround wall climb), get a good ultra and hold downright until transition. 
    Go neutral on transition and jump and do the cornerkick/climbjump. A good indicator that it will work is if Madeline is crouching through transition as pictured above.
@@ -78,7 +77,7 @@
       
    ![gif](https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths2.webp)
    \
-   ![cue](https://cdn.discordapp.com/attachments/293555577991200770/776248008546582579/depths2.PNG)
+   ![cue](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/depths2.PNG)
    \
    Easy backup to recoup some time if you miss DCB, hyper into transition and wait to upright until you reach the right half of the lower ceiling. 
    You can also add an extra cornerkick for a clean landing after leaving the little space.
@@ -105,7 +104,7 @@
  ----
  **The rest of the content here is targeted towards an A-Side clear.**
 ## Post-Tape
-(coming soon)
+(coming never? dm me if you want to contribute to this)
 ## After-DCB 
 
 ## Unravelling
