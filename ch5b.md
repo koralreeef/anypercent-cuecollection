@@ -4,13 +4,15 @@
    - [Through The Mirror](#through-the-mirror)
    - [Mix Master](#mix-master)
 ## Central Chamber
- \
+ <details>
+    <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chamber1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chamber2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chamber3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chamber4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/chamber5.webp" width="384" height="216"/>
- 
+ </details> 
+
  <details>
    <summary>temple-b-01, bubsdrop setup</summary>
       
@@ -63,10 +65,12 @@
  
 ----
 ## Through the Mirror
- \ 
+ <details>
+    <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mirror1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mirror2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mirror3.webp" width="384" height="216"/>
+ </details>
  
   <details>
    <summary>temple-c-00 -> c-01, high ruxxtin</summary>
@@ -105,13 +109,15 @@
 ----
 
 ## Mix Master
-\
+ <details>
+    <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5btheo5.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
    <summary>temple-d-00 -> d-01</summary>
       

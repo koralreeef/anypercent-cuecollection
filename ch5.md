@@ -8,11 +8,13 @@
    - [Rescue](#rescue)
  ----
  ## Start
- \
+ <details>
+      <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/5start3.webp" width="384" height="216"/>
- 
+ </details>
+
  <details>
       <summary>temple-a00-d</summary>
       
@@ -55,11 +57,13 @@
  
  ----
  ## Depths
-  \
+ <details>
+      <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/depths4.webp" width="384" height="216"/>
+ </details>
  
   <details>
       <summary>temple-b-00, zkad exit</summary>

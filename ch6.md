@@ -9,9 +9,11 @@
    - [Resolution](#resolution)
  ----
  ## Lake
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/lake1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/lake2.webp" width="384" height="216"/>
+ </details>
  
  <details>
  <summary>reflection-00, lake skip</summary>

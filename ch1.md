@@ -5,11 +5,13 @@
    - [Chasm](#chasm)
 
  ## Start
- \
+ <details>
+      <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start2.webp" width="384" height="216"/>
- \
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/start3.webp" width="384" height="216"/>
+ </details>
+
    <details>
       <summary>city-1</summary>
       
@@ -38,10 +40,12 @@
 
  ----
  ## Crossing
-  \
+ <details>
+    <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing1%20or%20zkad.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/crossing2.webp" width="384" height="216"/>
-  
+ </details>
+
  <details>
       <summary>6a-6c, aka zkad route</summary>
    

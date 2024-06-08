@@ -5,7 +5,8 @@
    - [Elevator Shaft](#elevator-shaft)
    - [Presidental Suite](#presidental-suite)
    ## Start
-  \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start3.webp" width="384" height="216"/>
@@ -14,7 +15,8 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start6.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start7.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3start8.webp" width="384" height="216"/>
- 
+ </details>
+
  <details>
       <summary>resort-s3 -> 0x,1st fast key</summary>
       
@@ -117,7 +119,8 @@
 
  ----
  ## Huge Mess
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess3.webp" width="384" height="216"/>
@@ -125,7 +128,8 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess6.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/mess7.webp" width="384" height="216"/>
- 
+ </details>
+
  <details>
       <summary>resort-08-a, cutscene ultra</summary>
       
@@ -204,9 +208,11 @@
  
  ----
  ## Elevator Shaft
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shaft1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/shaft2.webp" width="384" height="216"/>
+ </details>
 
  <details>
       <summary>resort-06-d, fish's setup</summary>
@@ -241,13 +247,15 @@
  
  ----
  ## Presidental Suite
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/oshiro5.webp" width="384" height="216"/>
-
+ </details>
+ 
  <details>
       <summary>resort-roof00</summary>
       

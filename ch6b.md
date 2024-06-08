@@ -6,12 +6,14 @@
    - [Reprieve](#reprieve)
 
 ## Start
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/6bstart4.webp" width="384" height="216"/>
- 
+ </details>
+
   <details>
    <summary>reflection-a-02</summary>
       
@@ -66,13 +68,15 @@
  
  ----
  ## Falling
-  \
+<details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/falling4.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
    <summary> **important** a note about diagonal dashes **important** </summary>
       
@@ -134,7 +138,8 @@
  
  ----
  ## Rock Bottom
-  \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/bottom3.webp" width="384" height="216"/>
@@ -202,16 +207,15 @@
  
  ----
  ## Reprieve
-   (fair warning, all of these dropdown tabs are pretty big)
-   \
+  <details>
+     <summary>preview</summary>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve1.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve2.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve3.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve4.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve5.webp" width="384" height="216"/>
   <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/reprieve6.webp" width="384" height="216"/>
-  
-   </details>
+  </details>
  
    <details>
    <summary>reflection-d-00, underblock</summary>

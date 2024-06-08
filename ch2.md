@@ -4,12 +4,14 @@
    - [Intervention](#intervention)
    - [Awake](#awake)
    ## Start
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2start4.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
       <summary>site-d7 entrance</summary>
       
@@ -48,13 +50,15 @@
    
   ----
  ## Intervention
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/intervention4.webp" width="384" height="216"/>
- 
+ </details>
+
   <details>
       <summary>site-4</summary>
       
@@ -105,9 +109,11 @@
    
    ----
  ## Awake
- \
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/awake2.webp" width="384" height="216"/>
+ </details>
  \
  (note that this checkpoint is counted from waking up a second time from campfire)
  

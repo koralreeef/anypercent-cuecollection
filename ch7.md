@@ -31,12 +31,14 @@
  
 ----
 ## 0M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/0m4.webp" width="384" height="216"/>
-   
+ </details>
+
    <details>
       <summary>summit-a-00</summary>
       
@@ -78,13 +80,15 @@
 
 ----
 ## 500M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/500m5.webp" width="384" height="216"/>
-  
+ </details>
+
   <details>
       <summary>summit-b-01</summary>
       
@@ -137,12 +141,14 @@
 
 ----
 ## 1000M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1000m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1000m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1000m3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1000m4.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
       <summary>summit-c-00</summary>
       
@@ -187,13 +193,15 @@
  
  ----
 ## 1500M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/1500m6.webp" width="384" height="216"/>
+ </details>
 
    <details>
       <summary>summit-d-00</summary>
@@ -255,7 +263,8 @@
  
  ----
 ## 2000M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m3.webp" width="384" height="216"/>
@@ -263,7 +272,8 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m6.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2000m7.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
       <summary>summit-e-00b -> e-02</summary>
       
@@ -342,14 +352,16 @@
  
 ----
 ## 2500M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m3.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m4.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m5.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/2500m6.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
       <summary>summit-f-00</summary>
       
@@ -412,7 +424,8 @@
  
  -----
 ## 3000M
-\
+ <details>
+     <summary>preview</summary>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m1.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m2.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m9.webp" width="384" height="216"/>
@@ -422,7 +435,8 @@
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m6.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m7.webp" width="384" height="216"/>
  <img src="https://github.com/koralreeef/cuedump-anypercent/blob/main/images/3000m8.webp" width="384" height="216"/>
- 
+ </details>
+
    <details>
       <summary>summit-flag 26</summary>
       
