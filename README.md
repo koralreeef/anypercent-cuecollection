@@ -1,4 +1,4 @@
-# THE GUIDE IS CURRENTLY BROKEN, I AM AWARE AND FIXING THIS
+# THE GUIDE WILL NO LONGER BE UPDATED, PLEASE GO TO [THE NEW PAGE](https://koralreeef.github.io/info.html)  (EVERYTHING IS IMPORTED OVER THERE)
 # Celeste Any% - Visual Cue and Setup Collection
 ![header](https://github.com/koralreeef/cuedump-anypercent/blob/main/pngs/header.png)
 ## Read me first!
